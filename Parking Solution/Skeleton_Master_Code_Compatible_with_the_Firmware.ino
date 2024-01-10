@@ -6,7 +6,7 @@
 //*  Skeleton Master Code for Use with the               *//
 //*  EEEBot_MainboardESP32_Firmware Code                 *//
 //*                                                      *//
-//*  Nat Dacombe                                         *//
+//* Written by Nat Dacombe, Edited by Adam Fairweather   *//
 //********************************************************//
 
 // the following code acts as a 'bare bones' template for your own custom master code that works with the firmware code provided
